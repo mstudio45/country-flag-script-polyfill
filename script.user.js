@@ -1,13 +1,13 @@
 // ==UserScript==
 // @name         Country Flags Polyfill
-// @namespace    http://tampermonkey.net/
+// @namespace    https://github.com/mstudio45
 // @version      v1.0.0
 // @description  Fixes all Country Flag emojis inside any text and canvas elements. Uses the country-flag-emoji-polyfill npmjs package.
 // @author       mstudio45
 // @match        *://*/*
+// @downloadURL  https://raw.githubusercontent.com/mstudio45/country-flag-script-polyfill/refs/heads/main/script.user.js
+// @updateURL    https://raw.githubusercontent.com/mstudio45/country-flag-script-polyfill/refs/heads/main/script.user.js
 // @grant        GM_addStyle
-// @downloadURL  https://raw.githubusercontent.com/mstudio45/country-flag-script-polyfill/refs/heads/main/main.user.js
-// @updateURL    https://raw.githubusercontent.com/mstudio45/country-flag-script-polyfill/refs/heads/main/main.user.js
 // ==/UserScript==
 
 (function() {
